@@ -5,7 +5,7 @@ Pull any Indian government open dataset from data.gov.in via the official OGD AP
 **Run it on Apify:** [apify.com/themineworks/india-data-gov-scraper](https://apify.com/themineworks/india-data-gov-scraper)
 **Docs, FAQ and pricing:** [themineworks.com/actors/india-data-gov-scraper](https://themineworks.com/actors/india-data-gov-scraper/)
 
-**Price:** $2.00 per 1,000 records on Apify's free plan, down to $1.00 on higher plans, plus a $0.005 start fee per run. Failed and empty results are never charged.
+**Price:** From $1.00 per 1,000 records on Apify's higher plans ($2.00 on the free plan), plus a $0.005 start fee per run. Failed and empty results are never charged.
 
 ## What it returns
 
@@ -13,7 +13,7 @@ Pull any Indian government open dataset from data.gov.in via the official OGD AP
 * Foreign trade, mandi prices, census, and more
 * Official OGD API. Authoritative source
 * Filter, sort, and paginate any dataset
-* Zero charge on empty runs
+* Empty results are never charged
 
 ## Quick start
 
@@ -132,7 +132,7 @@ Normalized JSON with consistent field names, UTF-8 encoding, and pagination alre
 
 ### How much does the data.gov.in API Scraper cost?
 
-$2.00 per 1,000 records on Apify's free plan, down to $1.00 on higher plans, plus a $0.005 start fee per run. Failed and empty results are never charged. You can cap what a single run may spend with the maximum cost setting on Apify.
+From $1.00 per 1,000 records on Apify's higher plans ($2.00 on the free plan), plus a $0.005 start fee per run. Failed and empty results are never charged. You can cap what a single run may spend with the maximum cost setting on Apify.
 
 ### Can I export the results to CSV or Excel?
 
